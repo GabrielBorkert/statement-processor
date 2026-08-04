@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExtratoProcessador.Api/ExtratoProcessador.Api.csproj" />
+    <Project Path="src/ExtratoProcessador.Worker/ExtratoProcessador.Worker.csproj" />
+  </Folder>
+</Solution>
